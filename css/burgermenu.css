@@ -43,7 +43,7 @@
 .pull-out-menu {
   z-index: 99;
   position: fixed;
-  background-color: red;
+  background-color: rgba(33, 44, 78, 0.7921568627);
   top: 0;
   bottom: 0;
   padding: 400px 200px;
